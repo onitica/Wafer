@@ -1,0 +1,32 @@
+name: wafer
+description: A Chip8 implementation in Flutter.
+
+version: 1.0.0+1
+
+
+environment:
+  sdk: ">=2.1.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^0.1.2
+  flame: ^0.13.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/
+    - assets/audio/
+
+  fonts:
+     - family:    PressStart2P
+       fonts:
+         - asset: fonts/PressStart2P.ttf

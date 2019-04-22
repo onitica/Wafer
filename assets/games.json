@@ -1,0 +1,24 @@
+{
+  "games": [
+    {
+      "name": "BC_test.ch8",
+      "loadQuirk": true
+    },
+    {
+      "name": "Breakout.ch8"
+    },
+    {
+      "name": "Maze.ch8"
+    },
+    {
+      "name": "Pong.ch8"
+    },
+    {
+      "name": "Tetris.ch8"
+    },
+    {
+      "name": "Space Invaders.ch8",
+      "shiftQuirk": true
+    }
+  ]
+}
